@@ -888,7 +888,7 @@ if ((strpos($_SERVER['HTTP_HOST'], 'bbcsproducts.net') !== false) || (strpos($_S
 		define('CUS_PARENT_UFX_CATID', $CUS_PARENT_UFX_CATID);
 	}
 }
-else if (strpos($_SERVER['HTTP_HOST'], 'phpstack-560222-1803503.cloudwaysapps.com') !== false) {
+else if (strpos($_SERVER['HTTP_HOST'], 'phpstack-560375-1803928.cloudwaysapps.com') !== false) {
 }
 else {
 	exit();
